@@ -1,0 +1,160 @@
+
+
+/* Global Styling */
+body {
+    background-color: #001253;
+    color: white;
+    padding-bottom: 1em;
+}
+
+
+/* Index Wrapper */
+/* Navigation */
+.navbar-nav {
+    color: #001253;
+}
+
+.nav-link {
+    color: #001253;
+}
+.nav-link:hover {
+    color: #334257;
+    transition: ease;
+}
+
+.contactlink {
+    text-decoration: none;
+    background-color: #334257;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+/* Hero */
+.btn-primary {
+    background-color: #334257;
+    border-color: #334257;
+    
+}
+
+.btn-primary:hover {
+    background-color: black;
+    border-color: black;
+    transition: 0.3s ease;
+}
+
+
+/* Services Section */
+.services {
+    background-color: #334257;
+}
+
+
+/* Testmonials */
+.testhdr {
+    text-align: center;
+}
+
+.testimonials {
+    background-color: #334257;
+}
+
+.col-md-7 {
+    padding-left: 50px;
+}
+
+.logoimg {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+/* Credits */
+.credits1 {
+    margin-top: 100px;
+}
+.credits {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+
+}
+/* Index Wrapper */
+
+
+
+
+/* Projects Wrapper */
+.accordion-header {
+    color: #334257;
+}
+.accordion-header:active {
+    color: #001253;
+}
+
+.projhdr {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+}
+/* Projects Wrapper */
+
+
+
+
+/* Team Wrapper*/
+.team {
+    margin-top: 100px;
+}
+
+.bg-dark {
+    background-color: #334257;
+}
+
+.benefits {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: gray;
+    opacity: 0.80;
+}
+/* Team Wrapper*/
+
+
+
+/* Contact Wrapper */
+.card {
+    background-color: #334257;
+    border-color: #334257;
+    height: 25vh;
+}
+
+.card-title {
+    font-size: 1.5em;
+    color: #001253;
+}
+
+.card-text {
+    font-size: 2em;
+}
+
+.col {
+    margin-top: 100px;
+}
+
+.contactemail {
+    text-decoration: none;
+    color: #001253;
+}
+
+/* Contact Wrapper */
+
+
+
+
+
+/* Responsive Design */
+@media (min-width: 992px) {
+    .rounded-lg-3 { border-radius: .3rem; }
+  }
